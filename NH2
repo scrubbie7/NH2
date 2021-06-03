@@ -5,16 +5,8 @@
   "author": "no",
   "cover": "https://t.nhentai.net/galleries/1786347/cover.jpg",
   "chapters": {                    
-"45": {
-      "title": "[Okumoto Yuuta] Chichi Mamire",
-      "volume": "0",
-      "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/319527/"
-      },
-      "last_updated": "1616368746"
-                     },
 "46": {
-      "title": "[Shiomaneki] Amanee!",
+      "title": "[Shiomaneki] Amanee",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/316391/"
@@ -30,7 +22,7 @@
       "last_updated": "1616368746"
                      },
 "48: {
-      "title": "[Bifidus]Joukou no hibi",
+      "title": "[Bifidus] Joukou no hibi",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/326644/"
