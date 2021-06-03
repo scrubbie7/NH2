@@ -12,6 +12,32 @@
         "<group name>": "/proxy/api/nhentai/chapter/316391/"
       },
       "last_updated": "1616368746"
+      },                 
+"47: {
+      "title": "[EMusu Aki] Shitakute Shitakute",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/338629/"
+      },
+      "last_updated": "1616368746"
+                     },
+"48: {
+      "title": "[Bifidus] Joukou no hibi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/326644/"
+      },
+      "last_updated": "1616368746"
+                        },
+"48.1: {
+      "title": "Majiwari no yado",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/336604/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
+ 
+    
