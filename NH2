@@ -10,15 +10,6 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/316391/"
-      },
-      "last_updated": "1616368746"
-"1": {
-      "title": "Imgur",
-      "volume": "0",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/EJxTYmi/"
-      },
-      "last_updated": "1616368746"
       }
      }
     }
