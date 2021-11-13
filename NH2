@@ -4,12 +4,14 @@
   "artist": "no",
   "author": "no",
   "cover": "https://media.discordapp.net/attachments/563546662803341342/849839942577684539/unknown.png?width=169&height=492",
-  "chapters": {                    
-"46": {
+  "chapters": {
+    "1": {
       "title": "[Shiomaneki] Amanee",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/316391/"
-      }
-     }
+      },
+      "last_updated": "1616368746"
     }
+   }
+  }
