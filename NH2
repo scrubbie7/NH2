@@ -11,20 +11,25 @@
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/EJxTYmi/"
       },
-    "2": {
+      "last_updated": "1616368746"
+      },
+ "2": {
       "title": "Not used",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/gyfQ02H/"
       },
       "last_updated": "1616368746"
-    "3": {
+      },
+"3": {
       "title": "p1",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/AfMCT7H/"
       },
-    "4": {
+       "last_updated": "1616368746"
+      },
+"4": {
       "title": "p2",
       "volume": "0",
       "groups": {
