@@ -6,10 +6,29 @@
   "cover": "https://media.discordapp.net/attachments/563546662803341342/849839942577684539/unknown.png?width=169&height=492",
   "chapters": {
     "1": {
-      "title": "[Shiomaneki] Amanee",
+      "title": "Main",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/316391/"
+        "<group name>": "/proxy/api/imgur/chapter/EJxTYmi/"
+      },
+    "2": {
+      "title": "Not used",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/gyfQ02H/"
+      },
+      "last_updated": "1616368746"
+    "3": {
+      "title": "3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/AfMCT7H/"
+      },
+    "4": {
+      "title": "4",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Gx2bnkR/"
       },
       "last_updated": "1616368746"
     }
